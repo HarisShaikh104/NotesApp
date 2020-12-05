@@ -21,7 +21,7 @@ const addNote = (title, body) => {
         console.log('New Note Added!')
     }
     else {
-        console.log('Note already exists!')
+        console.log('Note title already exists!')
     }
 
 
